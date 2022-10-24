@@ -1,0 +1,1 @@
+Object.defineProperty(exports,"__esModule",{value:true});exports.users=void 0;var users=[{id:1,name:"John Doe"}];exports.users=users;
